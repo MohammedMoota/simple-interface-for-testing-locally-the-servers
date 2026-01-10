@@ -31,5 +31,5 @@ server/.env
 *.sln
 *.sw?
 
-# Gemini artifacts (not needed)
+# Gemini artifacts
 .gemini
